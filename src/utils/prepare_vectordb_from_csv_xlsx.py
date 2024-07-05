@@ -3,7 +3,7 @@
 import os
 import pandas as pd
 from utils.load_config import LoadConfig
-from src.bedrock_caller import BedrockCaller
+from utils.bedrock_caller import BedrockCaller
 
 class PrepareVectorDBFromTabularData:
     """

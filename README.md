@@ -1,6 +1,10 @@
 ## Experimentation with Embedding Tabular Data
 
-This repository deals with 
+This repository experiments with using ChromaDB's similarity search to provide context (from a csv file) to an LLM from Amazon Bedrock. 
+
+## Results
+
+Results of generation can be found in the [results](./results) folder. For more detailed explanations, see [report.md](./report.md). 
 
 ## Using the Repo
 
@@ -20,6 +24,8 @@ This requires that [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/ge
 
 Once your profile is created in your `.aws/config` file, update your profile name in [bedrock_caller.py](./src/bedrock_caller.py), in the __init__ method. If you are using [01a_create_embeddings.ipynb](./01a_create_embedding.ipynb), you will need to update your profile name in the notebook as well. 
 
+Note that some referenced files are not uploaded to protect the confidentiality of client medical data. 
+
 ## Maintaining the Repo
 
 To update the `requirements.txt` file, ensure that your Python virtual environment is activated and run (at the root of this repo)
@@ -28,10 +34,6 @@ To update the `requirements.txt` file, ensure that your Python virtual environme
 pip freeze > requirements.txt
 ```
 
-## Results
-
-Results of generation can be found in the [results](./results) folder. For more detailed explanations, see [report.md](./report.md). 
-
 ## Credits
 
-Credit is due to Farzad for the script to chunk the csv for embedding, as well as the code for similarity search. The original repo referenced can be found at [this link](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/commits?author=Farzad-R).
+Credit is due to Farzad for the script to chunk the csv for embedding, as well as the code for similarity search. The original repo referenced can be found at [this link](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/commits?author=Farzad-R). 

@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "id": 6505,
+      "patient": {
+        "id": 1951,
+        "name": null,
+        "status": null
+      },
+      "note": "He is well.\n\nMaintain DW 65.5kg\n\nDr Alex Leong",
+      "type": "PIC_REVIEW",
+      "details": null,
+      "manuallyCreated": true,
+      "enteredAt": null,
+      "enteredBy": {
+        "id": 66,
+        "name": null,
+        "deleted": null
+      },
+      "editedAt": null,
+      "editedBy": null
+    },
+    {
+      "id": 2235,
+      "patient": {
+        "id": 1951,
+        "name": null,
+        "status": null
+      },
+      "note": "pt stable durind HD",
+      "type": "HD",
+      "details": "HD-readings",
+      "manuallyCreated": false,
+      "enteredAt": "2023-02-06T13:00:36Z",
+      "enteredBy": {
+        "id": 172,
+        "name": null,
+        "deleted": null
+      },
+      "editedAt": null,
+      "editedBy": null
+    },
+    {
+      "id": 7006,
+      "patient": {
+        "id": 1951,
+        "name": null,
+        "status": null
+      },
+      "note": "Patient requested go to toilet \nAlready informed patient to return blood but patient requested to go toilet due to stomach ache already.\nBloodline clotted. Already informed patient and Centre manager about the situation. HD time left around 2 hour and 10 minutes.\nChanged to new bloodline and dialyser.",
+      "type": "HD",
+      "details": "HD-readings", 
+      "manuallyCreated": false,
+      "enteredAt": "2023-06-20T15:52:06Z",
+      "enteredBy": {
+        "id": 231,
+        "name": null,
+        "deleted": null
+      },
+      "editedAt": "2023-06-21T11:25:24Z",
+      "editedBy": {
+        "id": 231,
+        "name": null,
+        "deleted": null
+      }
+    },
+    {
+      "id": 2199,
+      "patient": {
+        "id": 1951,
+        "name": null,
+        "status": null
+      },
+      "note": "IV Ranofer 100 mg given by MA Khairul",
+      "type": "HD

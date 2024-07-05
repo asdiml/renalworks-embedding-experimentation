@@ -1,0 +1,26 @@
+{
+    "content": "Based on the provided clinical data, the patient appears to be stable. The notes consistently describe the patient's general condition as stable, afebrile (without fever), with no signs or symptoms of infection, cough, flu, shortness of breath, or COVID-19. The notes also mention that the patient is on a profiling linear ultrafiltration (UF) regimen during hemodialysis sessions, which suggests that the patient's fluid status is being managed appropriately. Some notes also indicate that the patient has tolerated the hemodialysis sessions well, with stable vital signs. Overall, the clinical data suggests that the patient is in a stable condition without any concerning symptoms or issues.",
+    "pageable": {
+        "sort": {
+            "direction": "DESC",
+            "property": "createdAt"
+        },
+        "offset": 0,
+        "pageNumber": 0,
+        "pageSize": 50,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 17,
+    "size": 50,
+    "number": 0,
+    "sort": {
+        "direction": "DESC",
+        "property": "createdAt"
+    },
+    "first": true,
+    "numberOfElements": 17,
+    "empty": false
+}

@@ -1,0 +1,32 @@
+Based on the provided clinical data, here is the generated clinical note:
+
+Patient Name: [Patient ID: 1951]
+Date: [Current Date]
+
+Clinical Note:
+
+1. HD Session Notes:
+- [created_at: 13:00.6] Patient stable during HD.
+- [created_at: 43:52.1] Patient requested to go to the toilet due to stomach ache. Bloodline clotted. Informed patient and center manager. Changed to a new bloodline and dialyzer.
+- [created_at: 10:07.2] IV Ranofer 100 mg given by MA Khairul.
+- [created_at: 21:21.9] Patient underwent fistuloplasty on 29.4.2024 at UMMC.
+- [created_at: 37:56.4] Patient stable, no complaints. Finished 4-hour HD.
+- [created_at: 23:45.2] Patient stable, complete 4-hour HD, no complaints.
+- [created_at: 37:34.2] Patient stable during HD until finish.
+- [created_at: 18:24.1] Patient stable, complete 4-hour HD, no complaints.
+- [created_at: 34:33.0] Patient afebrile. No signs or symptoms of COVID-19 seen.
+- [created_at: 44:20.7] Patient completed 4-hour HD, no complaints, stable.
+- [created_at: 11:10.5] Patient afebrile. No signs or symptoms of COVID-19 seen.
+- [created_at: 26:33.4] Patient stable during HD.
+- [created_at: 36:15.9] Patient stable during HD.
+
+2. Medication Notes:
+- [created_at: 00:33.2] Ranofer (Iron Sucrose) 100mg/5mls Inj to be given on Friday.
+- [created_at: 12:12.3] IV Erysaa 4k-center stock given by CM Arnold.
+- [created_at: 11:18.8] Next HD, Ranofer (Iron Sucrose) 100mg/5mls Inj.
+- [created_at: 01:57.4] IV Erysaa 4k-center stock given by MA Ariffin.
+- [created_at: 38:40.7] Next HD, Ranofer (Iron Sucrose) 100mg/5mls Inj.
+
+3. Clinical Review Notes:
+- [created_at: 40:56.4] Maintain DW 65.5kg. [By Dr. Alex Leong]
+- [created_at: 18:05.4] Patient was seen by Dr. Tan KL in CVSK

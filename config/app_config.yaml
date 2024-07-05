@@ -19,5 +19,5 @@ llm_config:
     temperature: 0.0
 
 rag_config:
-  collection_name: renalworks
+  collection_name: renalworks-titanv1
   top_k: 1
