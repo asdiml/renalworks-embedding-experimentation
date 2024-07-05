@@ -1,0 +1,17 @@
+{
+    "report": {
+        "unstableDates": [],
+        "medicationRecords": [
+            {
+                "date": "2023-03-24",
+                "time": "21:03.5",
+                "medication": "Ranofer(Iron Sucrose) 100mg/5mls Inj",
+                "administeredBy": "172.0"
+            }
+        ],
+        "missedMedicationDates": [
+            "2023-03-24"
+        ],
+        "profilingType": "Linear UF profiling"
+    }
+}

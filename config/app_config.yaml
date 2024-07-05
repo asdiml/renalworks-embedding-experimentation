@@ -14,10 +14,10 @@ llm_config:
     SQL Result: {result}\n
     Answer: 
     "
-    rag_llm_system_role: "You will recieve the user's question along with the search results of that question over a database. Give the user the proper answer."
+    rag_llm_system_role: "You will receive the user's question along with the search results of that question over a database. Give the user the proper answer."
     engine: "gpt-35-turbo"
     temperature: 0.0
 
 rag_config:
-  collection_name: renalworks-titanv1
+  collection_name: renalworks
   top_k: 1

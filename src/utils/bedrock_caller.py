@@ -15,7 +15,7 @@ class BedrockCaller:
     def get_embedding(self, text):
 
         body = json.dumps({"inputText": text})
-        modelId = "amazon.titan-embed-text-v1"  # (Change this to try different embedding models)
+        modelId = "amazon.titan-embed-text-v2:0"  # (Change this to try different embedding models)
         accept = "application/json"
         contentType = "application/json"
 

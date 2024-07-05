@@ -1,0 +1,14 @@
+Based on the provided clinical data, here is the report for the patient:
+
+1. The dates and days that the patient is unwell and the nurses indicates that the patient is unstable:
+The clinical notes do not mention any days or dates when the patient was unwell or unstable. All notes indicate that the patient was stable and alert during the dialysis sessions.
+
+2. Itemize the dates and time that the patient receive any form of injections or medication and the person who administer the injection / medication:
+- 2023-05-07 01:51:44 AM - IV Erysaa 4k (injection) given by SN Noraini
+
+3. Did the patient missed or omit medication / injection during dialysis - list the dates:
+Yes, the patient omitted the following medication on this date:
+- 2023-01-09 09:03:05 PM - Ranofer (Iron Sucrose) 100mg/5mls Inj
+
+4. Highlight the type of profiling that is used by the nursing team:
+Based on the clinical notes, the nursing team used Linear Ultrafiltration (UF) Profiling for this patient during dialysis sessions. Most notes mention "On UF Profiling linear" with the specified start and stop ultrafiltration rates.

@@ -1,0 +1,9 @@
+
+Your task is to generate the report for the following for the patient
+1. The dates and days that the patient is unwell and the nurses indicates that the patient is unstable.
+2. Itemize the dates and time that the patient receive any form of injections or medication and the person who administer the injection / medication
+3. Did the patient missed or omit medication / injection during dialysis - list the dates 
+4. Highlight the type of profiling that is used by the nursing team.
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 
+

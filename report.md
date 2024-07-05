@@ -3,6 +3,7 @@
 The following generations were conducted with and without using similarity search on the Vector DB. 
 1. [Clinical Note Generation](#clinical-note-generation)
 2. [Response Generation to Specific Questions](#response-generation-to-specific-questions)
+3. [Report Generation to Specific Prompt](#report-generation-to-specific-prompt)
 
 ## Clinical Note Generation
 
@@ -71,3 +72,13 @@ Relatively mediocre result. Model does not register sample response, and does no
 View the textual response here: [control-attempt-6](./results/clinical-notes-01/control-attempt-6.txt)
 
 View the JSON response here: [control-attempt-5](./results/clinical-notes-01/control-attempt-5.txt)
+
+## Report Generation to Specific Prompt
+
+The specific prompt that notes the details to be included in the report can be found [here](./prompts/clinical-notes-01-prompt-specific-02.txt). 
+
+### With titan.v2 embedding
+
+Textual response: [attempt-16](./results/clinical-notes-01/attempt-16.txt)
+
+JSON response (uses the [sample](./sample_responses/clinical-notes-01.txt)): [attempt-15](./results/clinical-notes-01/attempt-15.txt)
