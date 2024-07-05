@@ -1,0 +1,30 @@
+Based on the provided search results, here is the clinical note for the patient's medication administration of Recormon (Epoetin Beta) 2000 units injection:
+
+Clinical Note
+
+Patient: 
+Name: [Patient Name]
+ID: 1951
+
+Medication: 
+Recormon (Epoetin Beta) 2000 units injection
+
+Administration Details:
+
+1. On [Date and Time], a dose of 4000 units (2 vials) of Recormon was administered subcutaneously. The medication was from the center stock and given by [Staff Name and ID].
+
+2. On [Date and Time], a dose of 4000 units of Recormon was administered. Note: "4k".  
+
+3. On [Date and Time], a dose of 4000 units of Recormon was given subcutaneously from the center stock by [Staff Name and ID].
+
+4. On [Date and Time], a dose of 4000 units of Recormon was administered. Note: "Given 4k".
+
+5. On [Date and Time], a dose of 4000 units of Recormon was administered subcutaneously from the center stock by [Staff Name and ID]. 
+
+6. On [Date and Time], a dose of 4000 units of Recormon was administered intravenously as Erysaa from the center stock by [Staff Name and ID].
+
+7. On [Date and Time], a dose of 4000 units of Recormon was administered. Note: "4k recormon admitted".
+
+[Additional entries can be added following the same format if more administration details are present in the search results.]
+
+Please note that the [Patient Name], [Date and Time], [Staff Name and ID] should be replaced with the actual values from the data.

@@ -1,0 +1,35 @@
+Based on the provided clinical data, here is a referral letter/clinical note for the patient [REDACTED]:
+
+Patient Name: [REDACTED]
+Patient ID: 12685
+Status: PERMANENT
+
+Reason for Referral/Clinical Note: End Stage Renal Disease on Maintenance Hemodialysis
+
+Clinical Summary:
+[REDACTED] is a __ year old patient with End Stage Renal Disease on maintenance hemodialysis. He undergoes thrice-weekly hemodialysis sessions at our dialysis center. 
+
+Recent Clinical Course:
+The patient has been relatively stable on his dialysis sessions. His pre-dialysis assessments consistently show that he is afebrile, with no signs or symptoms of infection, edema, or respiratory distress. His vital signs have been within acceptable ranges. 
+
+During dialysis, he generally tolerates the 4-hour sessions well, with no significant intradialytic complications noted. His ultrafiltration rates have been adjusted based on his fluid status, ranging from 0.75 L/hr to 1.17 L/hr using profiling linear ultrafiltration. Occasional dialysate temperature adjustments have been made to improve his tolerance.
+
+Relevant Medications:
+- Erythropoietin (Recormon/Epoetin Beta) 2000 units SC, administered during dialysis sessions
+- Iron Sucrose (Ranofer) 100 mg IV monthly 
+
+Relevant Laboratory Data:
+[Insert relevant recent laboratory data here if available]
+
+Ongoing Issues/Plan:
+1. Anemia management: Continue Erythropoietin and Iron Sucrose therapy, with monitoring of hemoglobin, iron studies, and dosage adjustments as needed.
+2. Vascular access: The patient has a well-functioning arteriovenous fistula. He underwent a fistuloplasty procedure on 29/04/2024 at UMMC for management of stenosis. Close monitoring of access function is advised.
+3. Dialysis prescriptions: Continue thrice-weekly hemodialysis with profiling linear ultrafiltration and dialysate temperature adjustments as tolerated. Target dry weight: 65.5 kg.
+4. Other comorbidity management: [Insert details if applicable]
+
+Please review the patient's condition and provide further guidance on his management as needed. Thank you for your assistance in his care.
+
+Sincerely,
+[Your Name]
+Dialysis Center
+[Institution Name]

@@ -1,0 +1,21 @@
+# OS and temporary files:
+__pycache__
+.ipynb_checkpoints
+.venv
+.DS_Store
+.idea
+
+# Environment Variables (if any)
+.env
+
+# ChromaDB-related
+# Ignore everything in the /chroma directory
+/data/chroma/*
+
+# But do not ignore the chroma.sqlite3 file
+!/data/chroma/chroma.sqlite3
+
+# Sensitive client medical data
+/data/csv_xlsx/chan-RenalGenie_Clinical_Note_csv.csv
+/sample_responses/clinical-notes-01.txt
+/prompts/clinical-notes-01-prompt.txt

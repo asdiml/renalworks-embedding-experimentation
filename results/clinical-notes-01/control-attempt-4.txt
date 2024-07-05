@@ -1,0 +1,55 @@
+{
+  "content": [
+    {
+      "id": 11989.0,
+      "note": "pt stable, complete 4 hour hd, no complaint",
+      "type": "HD",
+      "details": "Post-dialysis",
+      "fhir_id": 694417.0,
+      "id_patient": 1951.0,
+      "created_at": "54:09.4",
+      "created_by": 233.0,
+      "id_tenant": 100.0,
+      "id_branch": 10000.0, 
+      "id_dialysis": 9042.0,
+      "manually_created": false
+    },
+    {
+      "id": 11976.0,
+      "note": "pt stable, no sign of infection, no sign of covid",
+      "type": "HD",
+      "details": "Pre-dialysis",
+      "fhir_id": 694027.0,
+      "id_patient": 1951.0,
+      "created_at": "02:56.5",
+      "created_by": 233.0,
+      "id_tenant": 100.0,
+      "id_branch": 10000.0,
+      "id_dialysis": 9042.0,
+      "manually_created": false
+    },
+    {
+      "id": 11859.0,
+      "note": "pt stable and afebrile\nno sign and symptom of infection seen\nno sign and symptom of edema seen\npt on profiling linear, start at 1.15L/hr",
+      "type": "HD",
+      "details": "Pre-dialysis",
+      "fhir_id": 690742.0,
+      "id_patient": 1951.0,
+      "created_at": "19:14.8",
+      "created_by": 172.0,
+      "id_tenant": 100.0,
+      "id_branch": 10000.0,
+      "id_dialysis": 8961.0,
+      "manually_created": false
+    },
+    {
+      "id": 11668.0,
+      "note": "pt stable and afebrile\nno sign and symptom of infection seen\nno sign and symptom of edema seen\npt on profiling Linear, start at 0.97L/hr",
+      "type": "HD",
+      "details": "Pre-dialysis",
+      "fhir_id": 679245.0,
+      "id_patient": 1951.0,
+      "created_at": "30:14.2",
+      "created_by": 172.0,
+      "id_tenant": 100.0,
+      "id_

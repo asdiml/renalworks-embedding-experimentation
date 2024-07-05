@@ -1,0 +1,34 @@
+Based on the provided clinical data, here is a clinical note for the patient's medications related to Recormon (Epoetin Beta) 2000units Inj:
+
+Clinical Note
+
+Patient Name: [Patient Name]
+Patient ID: 1951
+
+Medications:
+
+1. Recormon (Epoetin Beta) 2000units Inj
+
+Medication Administration Records:
+
+04/27/2023 05:12 AM - SC Recormon 4k centre stock given by SN Aida. 2k-centre under SP60 and 2k-centre stock under PKS60.
+04/27/2023 09:50 AM - Given 4k.
+04/27/2023 11:08 AM - 4k.
+04/27/2023 11:40 AM - sc recormon 4k-centre stock given by SN Nissa.
+04/27/2023 02:58 PM - 4k.
+04/27/2023 03:46 PM - 4k.
+04/27/2023 04:47 PM - 4k.
+04/27/2023 04:56 PM - SC Recormon-4k centre stock given by SN Aida.
+04/27/2023 05:14 PM - 4k.
+04/27/2023 05:38 PM - recormon 4k.
+04/27/2023 06:24 PM - 4k.
+04/27/2023 06:54 PM - 4k.
+04/27/2023 08:23 PM - SC Recormon 4k-centre stock given by MA Shuhada.
+04/27/2023 09:03 PM - SC Recormon 4k-centre stock given by MA Shuhada.
+04/28/2023 12:35 AM - Given 4k.
+04/28/2023 08:47 AM - 4k recormon admitted.
+04/28/2023 02:01 PM - SC Recormon 4k-centre stock given by MA Ariffin.
+04/28/2023 04:10 PM - SC Recormon 4k-centre stock given by MA Shuhada.
+04/29/2023 12:12 PM - IV Erysaa 4k-centre stock given by CM Arnold.
+
+The patient has been consistently receiving Recormon (Epoetin Beta) 2000units Inj, typically noted as "4k" or with the full medication name. The injections were administered subcutaneously (SC) or intravenously (IV), and the medications were sourced from the centre stock, with the staff members administering them documented.

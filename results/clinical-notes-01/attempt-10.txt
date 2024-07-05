@@ -1,0 +1,73 @@
+{
+    "content": [
+        {
+            "id": 5402,
+            "patient": {
+                "id": 1951,
+                "name": null,
+                "status": null
+            },
+            "note": "sc recormon 4k-centre stock given by SN Nissa",
+            "type": "MEDICATION",
+            "details": "Recormon (Epoetin Beta) 2000units Inj",
+            "manuallyCreated": false,
+            "enteredAt": null,
+            "enteredBy": {
+                "id": 231,
+                "name": null,
+                "deleted": null
+            },
+            "editedAt": "2023-04-05T11:40:03Z",
+            "editedBy": {
+                "id": 231,
+                "name": null,
+                "deleted": null  
+            }
+        },
+        {
+            "id": 4543,
+            "patient": {
+                "id": 1951,
+                "name": null,
+                "status": null
+            },
+            "note": "SC Recormon 4k-centre stock given by MA Ariffin",
+            "type": "MEDICATION",
+            "details": "Recormon (Epoetin Beta) 2000units Inj",
+            "manuallyCreated": false,
+            "enteredAt": "2023-03-15T26:01:05Z", 
+            "enteredBy": {
+                "id": 231,
+                "name": null,
+                "deleted": null
+            }
+        },
+        {
+            "id": 3751,
+            "patient": {
+                "id": 1951,
+                "name": null,
+                "status": null
+            },
+            "note": "SC Recormon 4k-centre stock given by MA Shuhada",
+            "type": "MEDICATION", 
+            "details": "Recormon (Epoetin Beta) 2000units Inj",
+            "manuallyCreated": false,
+            "enteredAt": "2023-02-25T57:03:08Z",
+            "enteredBy": {
+                "id": 231,
+                "name": null,
+                "deleted": null
+            }
+        },
+        {
+            "id": 3350,
+            "patient": {
+                "id": 1951,
+                "name": null,
+                "status": null
+            },
+            "note": "SC Recormon 4k-centre stock given by MA Shuhada",
+            "type": "MEDICATION",
+            "details": "Recormon (Epoetin Beta) 2000units Inj", 
+            "
