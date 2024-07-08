@@ -1,0 +1,6 @@
+
+Your task is to calculate the Calcium Phosphate Product for this patient using the formula: Serum Calcium x Phosphate and indicate the following
+1. If the product is in an upward trend
+2. Trend the Product against the individual Serum Calcium and Phosphate results 
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

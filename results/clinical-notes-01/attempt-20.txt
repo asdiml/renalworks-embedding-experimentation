@@ -1,0 +1,33 @@
+Lab Summary Report for Patient Chan
+
+1. Total Lab Tests Conducted: Between the given time period, a total of 20 different lab tests were conducted on the patient.
+
+2. Package Tests Conducted:
+   - REN 4 - Diabetic Profile (6 monthly): Conducted 3 times
+   - REN 3 - Diabetic Profile (3 monthly): Conducted 1 time
+   - DP4, HBA1C Diabetic Profile (3 monthly): Conducted 1 time
+
+3. Lab Results Out of Range:
+   - HbA1c%: Consistently above the normal range of <5.7% (values ranging from 5.9% to 6.5%)
+   - HbA1c: Consistently above the normal range of <39 mmol/L (values ranging from 41 to 48 mmol/L)
+   - Hemoglobin: Below the normal range of 13.0 - 18.0 g/dl (value of 10.9 g/dl)
+
+   Lab Results Within Range:
+   - Total Cholesterol
+   - Total Cholesterol/HDL ratio
+   - HDL Cholesterol
+   - Non-HDL Cholesterol
+   - LDL Cholesterol
+   - Hepatitis C Antibody (Total)
+
+4. Trends:
+   - HB (Haemoglobin): Gradually increasing trend, from 77 g/L to 104 g/L
+   - Albumin: No data available
+   - ALT: No data available
+   - PTH: No data available
+   - Lipids:
+     - Total Cholesterol: Slightly increasing trend, from 2.6 mmol/L to 3.5 mmol/L
+     - LDL Cholesterol: Slightly increasing trend, from 1.42 mmol/L to 2.2 mmol/L
+     - HDL Cholesterol: Relatively stable, ranging from 0.89 mmol/L to 1.2 mmol/L
+
+Please note that this report is based solely on the provided search results, and additional information may be required for a more comprehensive assessment.

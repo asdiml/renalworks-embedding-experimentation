@@ -1,0 +1,11 @@
+
+Your task is to generate an executive summary for the following:
+1. The total number of nephrologist reviews and the list of the dates
+2. The total number of PIC review and the list of dates
+3. Highlight the dates or the quartile that this patient has missed the doctor�s review
+
+For compliance: 
+A patient must be review by a nephrologist quarterly
+A patient must be review by a PIC monthly
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

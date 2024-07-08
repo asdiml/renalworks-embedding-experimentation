@@ -16,6 +16,6 @@ __pycache__
 !/data/chroma/chroma.sqlite3
 
 # Sensitive client medical data
-/data/csv_xlsx/chan-RenalGenie_Clinical_Note_csv.csv
+/data/csv_xlsx
 /sample_responses/clinical-notes-01.txt
 /prompts/clinical-notes-01-prompt.txt

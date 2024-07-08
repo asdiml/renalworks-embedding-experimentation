@@ -1,0 +1,9 @@
+
+Your task is to generate the report of the following for Mr Chan
+1. The dates and days that the patient is unwell and when the nurses indicated that the patient is unstable.
+2. Itemize the dates and time that the patient received any form of injections or medication and include the person who administered the injection / medication
+3. Did the patient miss or omit medication / injection during dialysis - list the dates 
+4. Highlight the type of profiling that was used by the nursing team. 
+5. Identify the behavior of the nurses, and the type of profiling that the nurse prescribed for this patient. 
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

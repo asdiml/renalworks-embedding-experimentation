@@ -1,0 +1,7 @@
+
+Your task is to generate a clinical summary indicating the following for Chan
+1. The dates of visits from the Nephrologist
+2. During this time frame, summarize the review and the review dates by the nephrologist and the PIC
+3. Summarize the review and the orders performed by the nephrologist
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

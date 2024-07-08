@@ -1,0 +1,32 @@
+To calculate the Calcium Phosphate Product and analyze the trends, I will use the following data from the search results:
+
+Corrected Calcium (mmol/L):
+1: 2.21
+5: 2.1  
+8: 2.05
+10: 2.16
+13: 2.14
+14: 2.14
+
+Phosphate (Pre Dialysis) (mmol/L):
+1: 0.97
+5: 1.39
+8: 1.73 
+10: 1.42
+13: 1.36
+
+Calcium Phosphate Product:
+1: 2.21 x 0.97 = 2.14
+5: 2.1 x 1.39 = 2.92
+8: 2.05 x 1.73 = 3.55
+10: 2.16 x 1.42 = 3.07  
+13: 2.14 x 1.36 = 2.91
+14: 2.14 x (no phosphate value)
+
+1. The Calcium Phosphate Product shows an upward trend from visit 1 to visit 10, with the highest value of 3.55 at visit 8.
+
+2. Trending the Product against individual values:
+- Serum Calcium shows a relatively stable trend between 2.05-2.21 mmol/L
+- Phosphate (Pre Dialysis) shows an increasing trend from 0.97 to 1.73 mmol/L between visits 1-8, then a slight decrease.
+
+The upward trend in the Calcium Phosphate Product is primarily driven by the increasing Phosphate levels, while Serum Calcium remained relatively stable during this period.

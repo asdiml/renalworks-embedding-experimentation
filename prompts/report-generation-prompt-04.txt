@@ -1,0 +1,8 @@
+
+Your task is to write a lab summary for the patient, Chan. You must include the following information in the lab summary report:
+1. Total lab tests that were conducted between the period of time
+2. How many package tests were conducted?
+3. Highlight the lab results which are out of range and those which are within range
+4. Provide trends on patient's HB, Albumin, ALT, PTH, and Lipids
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

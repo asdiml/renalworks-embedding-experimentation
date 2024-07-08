@@ -1,0 +1,5 @@
+Based on the search results provided, the patient performed a Hep B DNA PCR Quantitative test. The search results include this test entry:
+
+"0: Hep B DNA PCR Quantitative,\n"
+
+Therefore, the patient did have a Hepatitis B DNA test performed.

@@ -1,6 +1,7 @@
 # Credit (modified from): https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/commits?author=Farzad-R
 
 import os
+import math
 import pandas as pd
 from utils.load_config import LoadConfig
 from utils.bedrock_caller import BedrockCaller
@@ -73,7 +74,7 @@ class PrepareVectorDBFromTabularData:
         file_name, file_extension = os.path.splitext(
                 file_names_with_extensions)
         if file_extension == ".csv":
-            df = pd.read_csv(file_directory)
+            df = pd.read_csv(file_directory, header=None) # If your csv file has columns, remove the last argument
             df_cleaned = df.dropna(how='all')
             print(df_cleaned)
             return df_cleaned, file_name
@@ -103,6 +104,23 @@ class PrepareVectorDBFromTabularData:
         embeddings = []
         bedrock_caller = BedrockCaller()
         for index, row in df.iterrows():
+
+            # FOR chan-LAB_RESULTS_2023-02-02_2024-04-09_cleaned.csv
+            output_str = ""
+            # Treat each row as a separate chunk
+            cols = [col_name for col_name in df.columns]
+            for col in cols:
+                if type(row[col]) is float and math.isnan(row[col]):
+                    continue
+                output_str += f"{col}: {row[col]},\n"
+            embedding = bedrock_caller.get_embedding(output_str)
+            embeddings.append(embedding)
+            docs.append(output_str)
+            metadatas.append({"source": file_name})
+            ids.append(f"id{index}")
+            print(len(embeddings), len(embeddings[0]))
+
+            ''' # FOR chan-RenalGenie_Clinical_Note_csv.csv
             output_str = ""
             # Treat each row as a separate chunk
             cols = [col_name for col_name in df.columns if col_name[:8] != "Unnamed:"]
@@ -114,6 +132,7 @@ class PrepareVectorDBFromTabularData:
             metadatas.append({"source": file_name})
             ids.append(f"id{index}")
             print(len(embeddings), len(embeddings[0]))
+            '''
         return docs, metadatas, ids, embeddings
         
 

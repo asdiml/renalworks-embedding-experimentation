@@ -1,0 +1,38 @@
+Executive Summary:
+
+1. Total number of nephrologist reviews: 6
+List of dates for nephrologist reviews:
+- 13/03/2023
+- 05/09/2022  
+- 01/06/2022
+- 02/03/2022
+- 01/12/2021
+- 01/06/2021
+
+2. Total number of PIC reviews: 16 
+List of dates for PIC reviews:
+- 13/03/2023
+- 06/02/2023
+- 05/12/2022
+- 05/09/2022
+- 01/08/2022  
+- 04/07/2022
+- 06/06/2022
+- 02/05/2022
+- 04/04/2022  
+- 02/03/2022
+- 03/02/2022
+- 03/01/2022
+- 01/12/2021
+- 01/11/2021
+- 04/10/2021
+- 01/06/2021
+
+3. Missed nephrologist reviews (quarterly):
+- Q4 2022 (Oct-Dec)
+- Q1 2023 (Jan-Mar) 
+
+Missed PIC reviews (monthly):
+- March 2023
+
+The patient has missed the required quarterly nephrologist review in Q4 2022 and Q1 2023. Additionally, the patient has missed the monthly PIC review for March 2023 based on the provided dates.

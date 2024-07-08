@@ -1,0 +1,31 @@
+Dear Mr. Chan,
+
+I hope this report finds you well. Based on your medical records, a total of 16 tests have been conducted within the period covered.
+
+Here's a summary of your test results:
+
+| Test | Result | Reference Range | Status |
+|------|--------|------------------|--------|
+| Total Cholesterol | 2.6 - 3.5 mmol/L | < 5.2 mmol/L | Within range |
+| Total Cholesterol/HDL Ratio | 2.5 - 3.3 | < 5.0 | Within range |
+| Non-HDL Cholesterol | 1.69 - 2.01 mmol/L | < 3.37 mmol/L | Within range |
+| LDL Cholesterol | 1.42 - 2.2 mmol/L | < 2.58 mmol/L | Some values out of range |
+| HbA1c % | 5.9 - 6.5 % | < 5.7 % | Out of range |
+| HbA1c | 41 - 48 mmol/mol | < 39 mmol/mol | Out of range |
+| Ferritin | 135 - 357 ug/L | 20 - 300 ug/L | Some values out of range |
+| Total Bilirubin | 8 - 11 umol/L | < 21 umol/L | Within range |
+| MCHC | 301 - 321 g/L | 300 - 360 g/L | Within range |
+| MCH | 30 - 31 pg | 27 - 32 pg | Within range |
+| RBC | 2.52 - 3.5 x 10^12/L | 4.5 - 6.5 x 10^12/L | Out of range |
+| Haemoglobin | 77 - 104 g/L | 130 - 180 g/L | Out of range |
+| Hemoglobin | 10.9 g/dl | 13.0 - 18.0 g/dl | Out of range |
+| WBC | 6.5 - 9.1 x 10^9/L | 4.0 - 11.0 x 10^9/L | Within range |
+| Hepatitis C Antibody (Total) | Not Detected | - | Within range |
+
+Based on these results, it is recommended that you continue monitoring your cholesterol levels, HbA1c (a measure of long-term blood sugar control), ferritin levels, and red blood cell counts (RBC, Haemoglobin/Hemoglobin).
+
+Assuming your next scheduled tests are in line with your regular check-ups, your next Diabetic Profile (3 monthly) and Urea (Post Dialysis) tests would be due in approximately 3 months from the latest test date.
+
+Mr. Chan, while some of your results are out of the desired range, it's important to remember that managing a chronic condition like diabetes is an ongoing process. With the guidance of your healthcare team and a commitment to making lifestyle changes, such as following a balanced diet and engaging in regular physical activity, you can work towards improving your overall health. Stay positive, and don't hesitate to reach out to your healthcare providers if you have any concerns or need additional support.
+
+We are here to support you and your family throughout this journey. Please don't hesitate to ask any questions or share any concerns you may have.

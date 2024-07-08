@@ -1,0 +1,8 @@
+
+Your task is to generate a review of the patient’s Diabetic Profile including the following: 
+1. Trend of results for glucose, HbA1c%, and Hba1c
+2. Indicate if the result is outside of the recommended normal range and whether the patient’s blood glucose is within the normal range, or if it is increasing. 
+
+Also, create a short report for the patient. 
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

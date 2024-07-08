@@ -1,0 +1,26 @@
+Dear Mr. Chan,
+
+I hope this report finds you well. After reviewing your clinical data, I would like to summarize the key findings for you and your family members.
+
+Number of Tests Conducted:
+During the period covered in the data, a total of 14 tests were conducted on various dates.
+
+Results Out of Range and Within Range:
+To facilitate better understanding, I have prepared a table highlighting the results that are out of range and within the provided range.
+
+| Test | Out of Range Results | Within Range Results |
+|------|------------------------|------------------------|
+| Total Cholesterol (<5.2 mmol/L) | - | 2.6, 2.9, 3.0, 3.5 |
+| Total Cholestrol/HDL ratio (<5.0) | 2.9, 3.3 | 2.5, 2.9 |
+| Non-HDL Cholesterol (<3.37 mmol/L) | - | 1.69, 2.01, 1.8 |
+| Ferritin (20 - 300 ug/L) | 357 | 234, 350, 135, 270 |
+| RBC (4.50 - 6.50 x 10^12/L) | 2.6, 2.52, 3.5 | 2.89, 3.09, 3.36 |
+| HbA1c% (<5.7 Percentage (%)) | 5.9, 6.1, 6.5, 6.1, 6.5, 6.1 | - |
+| MCHC (300 - 360 g/L) | 301 | 316, 313, 321, 319, 32 |
+| MCH (27 - 32 pg) | - | 30, 31, 30, 30, 31, 31 |
+| Total Bilirubin (<21 umol/L) | - | 10, 10, 8, 9, 11 |
+| Haemoglobin (130 - 180 g/L) | 78, 79, 77, 78, 82, 87 | 104 |
+| LDL Cholesterol (<2.58 mmol/L) | 2.2 | 1.42, 1.71, 1.58 |
+| HbA1c (<39 mmol/L) | 41, 43, 48, 43, 48 | - |
+| Hemoglobin (13.0 - 18.0 g/dl) | 10.9 | - |
+| White Blood Count (WBC) (4.0-11.0 x 10^9/L) | -

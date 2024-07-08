@@ -1,0 +1,10 @@
+
+Your task is to summarize the above into a report for the patient (Mr. Chan). 
+1. Inform the patient how many tests have been conducted within the period.
+2. Which results are out of range, and which results are within the provided range?
+You may use columns and rows to ease visual and understanding of the patient. 
+
+Subsequently, make an assumption of the next scheduled tests. 
+Lastly, encourage the patient to do better. Remember that this report is for the patient and his family members. 
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

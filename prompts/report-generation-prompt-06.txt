@@ -1,0 +1,4 @@
+
+Your task is to summarize the virology results and highlight the hepatitis B antibody results if an upward trend is observed for that test. 
+
+You will use the clinical data retrieved from ChromaDB to generate your response. 

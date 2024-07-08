@@ -1,0 +1,15 @@
+Based on the virology results provided, here is a summary:
+
+Hepatitis B Surface Antibody: There is an upward trend observed for this test, with values of 291, 603, and 264 at different time points.
+
+Hepatitis B Surface Antigen: This test consistently showed "Not Detected" results across multiple time points.
+
+Hepatitis B Core IGM: No result was provided for this test.
+
+Hepatitis B DNA PCR Quantitative: No result was provided for this test.
+
+Hepatitis C Antibody (Total): This test consistently showed "Not Detected" results across multiple time points.
+
+HIV Antibodies: This test consistently showed "Not Detected" results across multiple time points.
+
+No other virology test results were provided in the given data.
